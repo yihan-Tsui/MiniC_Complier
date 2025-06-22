@@ -1,0 +1,3 @@
+此部分功能针对Apple M芯片，可执行文件需要搭载Apple M系列芯片搭配macOS 12及以上系统运行。
+
+g++ -std=c++20 -Wall -O2 ast.cpp main.cpp mini_c.tab.cpp lex.yy.cpp type.cpp symbol.cpp semantic.cpp ir.cpp interpreter.cpp AssemblyGenerator.cpp InstructionEncoder.cpp ObjectFileGenerator.cpp PrettyPrinter.cpp -o mini_c

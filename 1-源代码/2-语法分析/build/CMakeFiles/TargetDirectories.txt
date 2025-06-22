@@ -1,0 +1,3 @@
+C:/Users/86137/seu.yacc/build/CMakeFiles/SeuYacc.dir
+C:/Users/86137/seu.yacc/build/CMakeFiles/edit_cache.dir
+C:/Users/86137/seu.yacc/build/CMakeFiles/rebuild_cache.dir
